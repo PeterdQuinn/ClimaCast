@@ -44,11 +44,6 @@ function Dashboard() {
           <img src={weatherData.current.condition.icon} alt="Weather icon" />
         </div>
       )}
-      {/* Placeholder for 5-Day Forecast */}
-      <div className="forecast">
-        <h2>5-Day Forecast (Placeholder)</h2>
-        {/* Forecast data will be displayed here */}
-      </div>
     </div>
   );
 }
