@@ -53,4 +53,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License.
+![Screenshot 2023-08-14 at 5 05 22 PM](https://github.com/PeterdQuinn/ClimaCast/assets/75184837/9d6c3919-b2bf-4f52-a251-cfe9253de784)![Screenshot 2023-08-14 at 5 04 54 PM](https://github.com/PeterdQuinn/ClimaCast/assets/75184837/869822d1-ef81-4f41-b799-e90fe1406532)![Screenshot 2023-08-14 at 5 04 36 PM](https://github.com/PeterdQuinn/ClimaCast/assets/75184837/34874c7a-aa4f-4530-8205-7ac82cd77d14)
+
+
 
