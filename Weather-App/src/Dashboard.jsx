@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './app.css';
+import './App.css';
 
 function Dashboard() {
   const [weatherData, setWeatherData] = useState(null);
